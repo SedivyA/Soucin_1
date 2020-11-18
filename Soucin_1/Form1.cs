@@ -19,7 +19,10 @@ namespace Soucin_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int x = Convert.ToInt32(textBox1.Text);
+            int y = Convert.ToInt32(textBox2.Text);
+            int vys = x * y;
+            label1.Text = vys.ToString();
         }
     }
 }
