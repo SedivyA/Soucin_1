@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soucin_1", "Soucin_1\Soucin_1.csproj", "{986DE4C6-E7DA-4565-9219-DDBE38C206F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986DE4C6-E7DA-4565-9219-DDBE38C206F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986DE4C6-E7DA-4565-9219-DDBE38C206F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986DE4C6-E7DA-4565-9219-DDBE38C206F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986DE4C6-E7DA-4565-9219-DDBE38C206F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {136D31DD-5137-4362-A23F-0EAFECC36FC4}
+	EndGlobalSection
+EndGlobal
