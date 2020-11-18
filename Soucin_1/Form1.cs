@@ -23,8 +23,10 @@ namespace Soucin_1
             int y = Convert.ToInt32(textBox2.Text);
             int soucin = x * y;
             double podil = x / y;
+            int souc = x + y;
             label1.Text = soucin.ToString();
-            label1.Text = podil.ToString();
+            label2.Text = podil.ToString();
+            label3.Text = souc.ToString();
         }
     }
 }
