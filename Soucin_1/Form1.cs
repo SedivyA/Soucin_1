@@ -24,9 +24,11 @@ namespace Soucin_1
             int soucin = x * y;
             double podil = x / y;
             int souc = x + y;
+            int rozdil = x - y;
             label1.Text = soucin.ToString();
             label2.Text = podil.ToString();
             label3.Text = souc.ToString();
+            label4.Text = rozdil.ToString();
         }
     }
 }
