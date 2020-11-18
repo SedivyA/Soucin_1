@@ -21,8 +21,10 @@ namespace Soucin_1
         {
             int x = Convert.ToInt32(textBox1.Text);
             int y = Convert.ToInt32(textBox2.Text);
-            int vys = x * y;
-            label1.Text = vys.ToString();
+            int soucin = x * y;
+            double podil = x / y;
+            label1.Text = soucin.ToString();
+            label1.Text = podil.ToString();
         }
     }
 }
